@@ -1,7 +1,7 @@
 {
-    "name": "@z4phdev/baileys",
+    "name": "@hanzzy/baileys",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By Z",
+    "description": "WhatsApp API Modification By Hanzzy",
     "keywords": [
         "whatsapp",
         "baileys",
@@ -9,11 +9,11 @@
         "whatsapp-chat",
         "whatsapp-group",
         "botwa",
-        "z4phdev"
+        "hanzzy"
     ],
-    "homepage": "https://github.com/z4phdev/baileys",
+    "homepage": "https://github.com/HanzyTzy-ID/Baileys",
     "repository": {
-        "url": "https://github.com/z4phdev/baileys"
+        "url": "https://github.com/HanzyTzy-ID/Baileys"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
